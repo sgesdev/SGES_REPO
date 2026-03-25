@@ -4,7 +4,7 @@ title: "Introdução"
 ---
 
 <p id="sobre-este-manual"></p>
-# 1.Sobre este Manual 1
+# 1.Sobre este Manual
 Este manual descreve o modo de funcionamento do sistema, apresentando os respectivos ecrãs, a sua sequência, modo de preenchimento e as regras de negócio que lhe estão subjacentes. 
 Está dividido nos seguintes capítulos:
 
