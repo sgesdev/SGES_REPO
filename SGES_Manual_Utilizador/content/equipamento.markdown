@@ -14,7 +14,7 @@ order: 3
 Neste módulo são feitas ações sobre os equipamentos. 
 Estas só poderão ser realizadas caso na ficha do estabelecimento, no separador *Estabelecimento*, dentro da secção *Identificação* esteja ativa a opção que indicada que o estabelecimento possui equipamentos médicos pesados ([](#figTemEmp)).
 
-![figTemEmp](img/pages/cap13/Tem_EMP.png)
+![figTemEmp](img/pages/cap13/Tem_EMP.jpg)
 
 <p class="caption" id="figTemEmp"> Estabelecimento permite o registo de equipamentos</p>
 
