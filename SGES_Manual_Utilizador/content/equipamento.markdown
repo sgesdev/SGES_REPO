@@ -235,7 +235,7 @@ O equipamento anterior é automaticamente marcado como **Desativado por upgrade*
 
 \* Caso o tipo de utilização seja exclusiva do serviço, têm de existir os serviços que constam nas especialidades do estabelecimento ([](#figEspecialidade)).
 
-![figAtividade](img/pages/cap12/12_1_2_4.png)
+![figAtividade](img/pages/cap12/12_1_2_4.PNG)
 
 <p class="caption" id="figAtividade"> Criar novo Equipamento - Atividade</p>
 
@@ -263,7 +263,7 @@ O equipamento anterior é automaticamente marcado como **Desativado por upgrade*
 | j) | Horas de paragem/Ano                                   |  |
 
 
-![figManutencao](img/pages/cap12/12_1_2_3.png)
+![figManutencao](img/pages/cap12/12_1_2_3.PNG)
 
 <p class="caption" id="figManutencao"> Criar novo Equipamento - Manutenção</p>
 
@@ -299,7 +299,7 @@ Após clicar em **ALTERAR** irá ser notificado com o resultado da operação.
 | d) | ECTS 		   		                           	  | |
 
 
-![figRhAfetos](img/pages/cap12/12_1_2_6.png)
+![figRhAfetos](img/pages/cap12/12_1_2_6.PNG)
 
 <p class="caption" id="figRhAfetos"> Criar novo Equipamento - Recursos Humanos Afetos</p>
 
