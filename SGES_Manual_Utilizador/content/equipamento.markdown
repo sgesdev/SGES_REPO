@@ -332,7 +332,7 @@ São apresentados novos campos ([](#figNovosCamposEdicao)) :
 | Upgrade aumenta o tempo de vida útil? | Contratação |
 | Valor do upgrade | Contratação |
 
-![figNovosCamposEdicao](img/pages/cap13/novos_campos_edicao.PNG)
+![figNovosCamposEdicao](img/pages/cap13/novos_campos_edicao.png)
 
 <p class="caption" id="figNovosCamposEdicao"> Novos campos de preenchimento obrigatório.</p>
 
