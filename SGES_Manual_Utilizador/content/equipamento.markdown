@@ -235,7 +235,7 @@ O equipamento anterior é automaticamente marcado como **Desativado por upgrade*
 
 \* Caso o tipo de utilização seja exclusiva do serviço, têm de existir os serviços que constam nas especialidades do estabelecimento ([](#figEspecialidade)).
 
-![figAtividade](img/pages/cap12/12_1_2_4.PNG)
+![figAtividade](img/pages/cap12/12_1_2_4.png)
 
 <p class="caption" id="figAtividade"> Criar novo Equipamento - Atividade</p>
 
@@ -263,7 +263,7 @@ O equipamento anterior é automaticamente marcado como **Desativado por upgrade*
 | j) | Horas de paragem/Ano                                   |  |
 
 
-![figManutencao](img/pages/cap12/12_1_2_3.PNG)
+![figManutencao](img/pages/cap12/12_1_2_3.png)
 
 <p class="caption" id="figManutencao"> Criar novo Equipamento - Manutenção</p>
 
@@ -299,7 +299,7 @@ Após clicar em **ALTERAR** irá ser notificado com o resultado da operação.
 | d) | ECTS 		   		                           	  | |
 
 
-![figRhAfetos](img/pages/cap12/12_1_2_6.PNG)
+![figRhAfetos](img/pages/cap12/12_1_2_6.png)
 
 <p class="caption" id="figRhAfetos"> Criar novo Equipamento - Recursos Humanos Afetos</p>
 
@@ -338,20 +338,20 @@ São apresentados novos campos ([](#figNovosCamposEdicao)) :
 
 Preencha **Observações** com uma breve descrição do upgrade realizado e carregue no botão **Guardar** da secção *Identificação*.  
 
-![figSucessoEdicaoUpgradeIdentificacao](img/pages/cap13/sucesso_edicao_upgrade_identificacao.PNG)
+![figSucessoEdicaoUpgradeIdentificacao](img/pages/cap13/sucesso_edicao_upgrade_identificacao.png)
 
 <p class="caption" id="figSucessoEdicaoUpgradeIdentificacao"> secção "Identificação" alterada com sucesso.</p>
 
 Preencha os novos campos da secção **Contratação**.  
 Caso o upgrade aumente o tempo de vida útil do equipamento o campo **Indique em quantos anos:** torma-de de preenchimento obrigatório.
 
-![figEdicaoContratacao](img/pages/cap13/contratacao_edicao_preenchido.PNG)
+![figEdicaoContratacao](img/pages/cap13/contratacao_edicao_preenchido.png)
 
 <p class="caption" id="figEdicaoContratacao"> Novos campos da secção "Contratação" preenchidos.</p>
 
 Clique novamente no botão **Guardar** da secção. O upgrade fica registado no equipamento mantendo o mesmo número de série.
 
-![figSucessoContratacaoUpgrade](img/pages/cap13/contratacao_sucesso_upgrade.PNG)
+![figSucessoContratacaoUpgrade](img/pages/cap13/contratacao_sucesso_upgrade.png)
 
 <p class="caption" id="figSucessoContratacaoUpgrade"> Upgrade que não altera o nº de série do equipamento registado com sucesso. </p>
 
