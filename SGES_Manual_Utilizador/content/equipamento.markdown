@@ -339,6 +339,7 @@ São apresentados novos campos ([](#figNovosCamposEdicao)) :
 Preencha **Observações** com uma breve descrição do upgrade realizado e carregue no botão **Guardar** da secção *Identificação*.  
 
 ![figSucessoEdicaoUpgradeIdentificacao](img/pages/cap13/sucesso_edicao_upgrade_identificacao.png)
+<img src="img/pages/cap13/sucesso_edicao_upgrade_identificacao.png" style="max-width: 100%; height: auto;">
 
 <p class="caption" id="figSucessoEdicaoUpgradeIdentificacao"> secção "Identificação" alterada com sucesso.</p>
 
