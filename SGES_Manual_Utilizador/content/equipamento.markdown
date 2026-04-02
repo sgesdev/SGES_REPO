@@ -338,21 +338,23 @@ São apresentados novos campos ([](#figNovosCamposEdicao)) :
 
 Preencha **Observações** com uma breve descrição do upgrade realizado e carregue no botão **Guardar** da secção *Identificação*.  
 
-![figSucessoEdicaoUpgradeIdentificacao](img/pages/cap13/sucesso_edicao_upgrade_identificacao.png)
-<img src="img/pages/cap13/sucesso_edicao_upgrade_identificacao.png" style="max-width: 100%; height: auto;">
+<a id="figSucessoEdicaoUpgradeIdentificacao"></a>
+<img src="img/pages/cap13/sucesso_edicao_upgrade_identificacao.png" style="max-width: 1021px; width: 100%; height: auto;">
 
 <p class="caption" id="figSucessoEdicaoUpgradeIdentificacao"> secção "Identificação" alterada com sucesso.</p>
 
 Preencha os novos campos da secção **Contratação**.  
 Caso o upgrade aumente o tempo de vida útil do equipamento o campo **Indique em quantos anos:** torma-de de preenchimento obrigatório.
 
-![figEdicaoContratacao](img/pages/cap13/contratacao_edicao_preenchido.png)
+<a id="figEdicaoContratacao"></a>
+<img src="img/pages/cap13/contratacao_edicao_preenchido.png" style="max-width: 1021px; width: 100%; height: auto;">
 
 <p class="caption" id="figEdicaoContratacao"> Novos campos da secção "Contratação" preenchidos.</p>
 
 Clique novamente no botão **Guardar** da secção. O upgrade fica registado no equipamento mantendo o mesmo número de série.
 
-![figSucessoContratacaoUpgrade](img/pages/cap13/contratacao_sucesso_upgrade.png)
+<a id="figSucessoContratacaoUpgrade"></a>
+<img src="img/pages/cap13/contratacao_sucesso_upgrade.png" style="max-width: 1021px; width: 100%; height: auto;">
 
 <p class="caption" id="figSucessoContratacaoUpgrade"> Upgrade que não altera o nº de série do equipamento registado com sucesso. </p>
 
