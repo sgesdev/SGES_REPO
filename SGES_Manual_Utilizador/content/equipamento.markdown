@@ -128,7 +128,7 @@ Após selecionar a opção de upgrade serão apresentados novos campos obrigató
 
 Carregue no botão de pesquisa do campo **Nº de série do equipamento alvo do upgrade** e selecione o equipamento que será alvo de upgrade ([](#figPesquisaUpgrade)).  
 
-![figPesquisaUpgrade](img/pages/cap13/pop_up_upgrade.png)
+![figPesquisaUpgrade](img/pages/cap13/pop_up_ugrade.png)
 
 <p class="caption" id="figPesquisaUpgrade"> Pesquisa e seleção de equipamento a ser alvo de upgrade. </p>
 
