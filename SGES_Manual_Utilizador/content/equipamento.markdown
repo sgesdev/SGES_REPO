@@ -94,7 +94,7 @@ Após essa escolha, é apresentado o campo **Nº de série do equipamento a subs
 <p class="caption" id="figPesquisaSubstituicao"> Pesquisa e seleção de equipamento a ser substituído. </p>
 
 Depois de selecionado o equipamento a substituir, o utilizador deve preencher os restantes campos obrigatórios da secção de **Identificação**, como mostrado na tabela acima.
-Quando a gravação é concluída ([](#figSucesso)), o novo EMP é criado e o equipamento selecionado é automaticamente atualizado para o estado **Desativado por substituição** ([](#figConsulta)).  
+Quando a gravação é concluída ([](#figSucesso)), o registo do novo EMP é concluído e o estado do equipamento selecionado para substituição, é automaticamente atualizado para **Desativado por substituição** ([](#figConsulta)).  
 
 ![figSucesso](img/pages/cap13/sucesso.png)
 
@@ -169,7 +169,7 @@ Carregar no botão **Guardar** da secção para concluir o processo.
 
 <p class="caption" id="figSucessoContratacao"> Preenchimento dos campos obrigatórios da secção "Contratação" realizado com sucesso. </p>
 
-O equipamento anterior é automaticamente marcado como **Desativado por upgrade**.
+O estado do equipamento selecionado para upgrade é automaticamente alterado para **Desativado por upgrade**.
 
 ![figConsultaUpgrade](img/pages/cap13/consulta_upgrade.png)
 
@@ -211,10 +211,11 @@ O equipamento anterior é automaticamente marcado como **Desativado por upgrade*
 ||                                                        | Em Funcionamento ||
 ||                                                        | Não Instalado ||
 ||                                                        | Parado       ||
-||                                                        | Substituido/Upgrade       ||
+||                                                        | Desativado por substituição  ||
+||                                                        | Desativado por upgrade     ||
 | b) | Instalação Fixa				                      | Sim| Localização |
 ||                                                        | Não ||
-| c) | Se Estado = Abatido ou Substituido/Upgrade         | Data de Alteração do Estado||
+| c) | Se Estado = Abatido, Desativado por substituição ou por upgrade  | Data de Alteração do Estado||
 | d) | Se Estado = Avariado                    	          | Data de Alteração do Estado||
 |    |                                                    | Motivo ||
 | e) | Se Estado = Não instalado ou Parado                | Motivo ||
@@ -319,7 +320,7 @@ O utilizador pode navegar entre os equipamentos do estabelecimento clicando em *
 <p id="upgradeSemAlteracaoNSerie"></p>
 ### 13.2.1. Registar um upgrade que não altera o nº de série de um equipamento
 
-Este tipo de upgrade deve ser registado quando não ocorre alteração do número de série do equipamento. O registo é feito diretamente na edição de um equipamento existente com o estado **Em funcionamento**.
+Este tipo de upgrade deve ser registado quando não ocorre alteração do número de série do equipamento. O registo é feito diretamente na edição de um equipamento existente com estado **Em funcionamento** ou **Avariado**.
 
 Na secção **Identificação**, ative a opção:  
 **O equipamento foi alvo de um upgrade (sem alteração do nº de série)?**, selecione **Sim** 
