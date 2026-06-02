@@ -105,7 +105,8 @@ Quando a gravação é concluída ([](#figSucesso)), o registo do novo EMP é co
 <p class="caption" id="figConsulta"> Consulta de um equipamento de substituição e de um equipamento substituido com o estado atribuído automaticamente para "Desativado por substituição". </p>
 
 <p id="upgradeComNovoNSerie"></p>
-#### 13.1.1.2 Registar um equipamento que foi alvo de um upgrade que alterou o seu nº de série
+#### 13.1.1.2 Registar um equipamento que foi alvo de um upgrade que alterou o seu nº de série: Dá-se nota que para a criação de um equipamento de Upgrade com alteração do nº de série, os campos “Produção para o exterior?” e “O equipamento é partilhado por mais alguma entidade?” devem estar preenchidos na ficha do equipamento que será alvo de upgrade.
+
 
 Na criação de um equipamento quando o mesmo foi alvo de um upgrade que implica alteração do número de série o utilizador deve, no campo **Classificação do equipamento**, selecionar a opção **Upgrade (com alteração do nº de série)** ([](#figSelecionarUpgrade)).  
 
@@ -138,7 +139,7 @@ Após a seleção do equipamento, o formulário da secção **Identificação** 
 
 <p class="caption" id="figPreenchimento"> Preenchimento automático dos campos da secção "Identificação". </p>
 
-Introduza o novo número de série e uma breve descrição do upgrade realizado nas observações.  
+Introduza o novo número de série e uma breve descrição do upgrade realizado nas observações ([](#figPreencherDados)).  
 
 ![figPreencherDados](img/pages/cap13/preencher_dados.png)
 
@@ -150,7 +151,7 @@ Clique em **Guardar** para concluir o preenchimento da secção **Identificaçã
 
 <p class="caption" id="figSucessoUpgrade"> Secção "Identificação" preenchida com sucesso. </p>
 
-Preencha os campos obrigatórios da secção **Contratação**:  
+Preencha os campos obrigatórios da secção **Contratação** ([](#figPreencherContratacao)):  
    - Tipo Contrato;
    - Data de Início de Funcionamento;
    - Data de Receção;
@@ -163,13 +164,13 @@ Preencha os campos obrigatórios da secção **Contratação**:
 
 Caso o upgrade aumente o tempo de vida útil do equipamento o campo **Indique em quantos anos:** torma-de de preenchimento obrigatório.
 
-Carregar no botão **Guardar** da secção para concluir o processo.
+Carregar no botão **Guardar** da secção para concluir o processo ([](#figSucessoContratacao)).
 
 ![figSucessoContratacao](img/pages/cap13/sucesso_contratacao.png)
 
 <p class="caption" id="figSucessoContratacao"> Preenchimento dos campos obrigatórios da secção "Contratação" realizado com sucesso. </p>
 
-O estado do equipamento selecionado para upgrade é automaticamente alterado para **Desativado por upgrade**.
+O estado do equipamento selecionado para upgrade é automaticamente alterado para **Desativado por upgrade** ([](#figConsultaUpgrade).
 
 ![figConsultaUpgrade](img/pages/cap13/consulta_upgrade.png)
 
