@@ -81,7 +81,7 @@ Após o registo dos dados o utilizador deve carregar em **GUARDAR** para criar o
 <p id="substituicao"></p>
 #### 13.1.1.1 Registar um equipamento de substituição
 
-Para criar um equipamento de substituição, o utilizador deve começar por indicar que o novo EMP será utilizado para substituir um equipamento existente. Para isso, basta selecionar a opção **Substituição** no campo *Classificação do equipamento* ([](#figSelecionarSubstituicao)).  
+Para criar um equipamento de substituição, o utilizador deve começar por indicar que o novo EMP será utilizado para substituir um equipamento existente. Para isso, basta selecionar a opção **Substituição** no campo *Classificação do equipamento* ([Fig.42](#figSelecionarSubstituicao)).  
 
 ![figSelecionarSubstituicao](img/pages/cap13/sel_subs.png)
 
@@ -170,7 +170,7 @@ Carregar no botão **Guardar** da secção para concluir o processo ([](#figSuce
 
 <p class="caption" id="figSucessoContratacao"> Preenchimento dos campos obrigatórios da secção "Contratação" realizado com sucesso. </p>
 
-O estado do equipamento selecionado para upgrade é automaticamente alterado para **Desativado por upgrade** ([](#figConsultaUpgrade).
+O estado do equipamento selecionado para upgrade é automaticamente alterado para **Desativado por upgrade** ([](#figConsultaUpgrade)).
 
 ![figConsultaUpgrade](img/pages/cap13/consulta_upgrade.png)
 
