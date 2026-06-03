@@ -109,8 +109,8 @@ Quando a gravação é concluída ([](#figSucesso)), o registo do novo EMP é co
 
 
 Na criação de um equipamento quando o mesmo foi alvo de um upgrade que implica alteração do número de série o utilizador deve, no campo **Classificação do equipamento**, selecionar a opção **Upgrade (com alteração do nº de série)** ([](#figSelecionarUpgrade)).  
-<br>
-Dá-se nota que para a criação de um equipamento de Upgrade com alteração do nº de série, os campos “Produção para o exterior?” e “O equipamento é partilhado por mais alguma entidade?” devem estar preenchidos na ficha do equipamento que será alvo de upgrade.
+
+Dá-se nota que **para a criação de um equipamento de Upgrade com alteração do nº de série, os campos “Produção para o exterior?” e “O equipamento é partilhado por mais alguma entidade?” devem estar preenchidos na ficha do equipamento que será alvo de upgrade.**
 
 ![figSelecionarUpgrade](img/pages/cap13/sel_upgrade.png)
 
